@@ -8,6 +8,6 @@
 
 __version__ = "0.0.1"
 
-from FifoStack import FifoStack
-from LifoStack import LifoStack
+from .StackFifo import StackFifo
+from .StackLifo import StackLifo
 

@@ -1,2 +1,6 @@
 .idea
+.ropeproject
 __pycache__
+build
+dist
+stackFifoLifo.egg-info

@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*-
 
 """
-    The 'LifoStack' module
+    The 'StackLifo' module
     ======================
 
     Use it to Last In - First Out stack
 
     :Example:
 
-    >>> from stackFifoLifo import LifoStack
-    >>> x=LifoStack()
+    >>> from stackFifoLifo import StackLifo
+    >>> x=StackLifo()
     >>> x.copyStack()
     []
     >>> x.emptyStack()
@@ -34,7 +34,7 @@
 
 """
 
-class LifoStack(object):
+class StackLifo(object):
     """LifoStack(object): LIFO stack: Last In - First Out stack"""
 
     def __init__(self,maxstack=None):
