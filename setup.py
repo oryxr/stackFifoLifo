@@ -20,7 +20,7 @@ setup(
     # https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers = [
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 3.x",
+        "Programming Language :: Python :: 3.5",
         "Topic :: Communications",
     ],
     license= "GPL",
