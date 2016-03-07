@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 """
@@ -9,7 +9,7 @@
 
     :Example:
 
-    >>> from LifoStack import LifoStack
+    >>> from stackFifoLifo import LifoStack
     >>> x=LifoStack()
     >>> x.copyStack()
     []
